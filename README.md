@@ -1,4 +1,4 @@
-# Morse-Code-by-Arduino
+# Morse Code by Arduino
 
 It's a college project for Logic Gates Subject. I chose this project to apply coding system in real life so I tried to transform ASCII code into Morse code and to begin dealing with microcontrollers.
 
